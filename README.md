@@ -9,11 +9,11 @@
 
 - First `$ npm install -g yo`
 - Then clone the generator
-- Get into the generator folder and use `$ npm link`
+- Get into the generator folder and use `$ npm install` then `$ npm link`
 
 ## Generate a project
 
-- To generate a project use `$ yo thomas`
+- To generate a project use in the directory you want to create the project `$ yo thomas`
 - Follow the steps on your shell
 - run `$ npm install` in your project directory and you are ready to start a new project
 
