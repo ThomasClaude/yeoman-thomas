@@ -16,6 +16,7 @@
 - To generate a project use in the directory you want to create the project `$ yo thomas`
 - Follow the steps on your shell
 - run `$ npm install` in your project directory and you are ready to start a new project
+- To run the compiler run `$ gulp` in your shell
 
 
 
